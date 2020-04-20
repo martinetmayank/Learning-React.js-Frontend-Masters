@@ -1,0 +1,3 @@
+FONTS
+    Fira Code - Free
+    Dark Mono - Paid
