@@ -23,7 +23,7 @@ const SearchParams = () => {
 		console.log("animals", animals);
 	
 		setPets(animals || []);
-	  }
+		}
 
 	useEffect(() => {
 		setBreeds([]);
